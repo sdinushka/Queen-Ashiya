@@ -43,11 +43,11 @@ global.owner = ['Didula Rashmika']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94787811464'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'MR.SHENU'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = 'MR.SHENU BOT'
 
 global.footer = '©💗Queen Ashiya🧚.'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = 'MR.SHENUWA'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = 'MR.SHENUWA'
 
 global.sessionName = 'session'
 
